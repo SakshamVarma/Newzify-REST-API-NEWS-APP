@@ -1,11 +1,10 @@
-package com.example.apitest
+package com.example.Newzify
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.apitest.databinding.ActivityMainBinding
+import com.example.Newzify.databinding.ActivityMainBinding
 import retrofit2.*
 import retrofit2.converter.gson.GsonConverterFactory
 

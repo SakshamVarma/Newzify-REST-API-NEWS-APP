@@ -1,4 +1,4 @@
-package com.example.apitest
+package com.example.Newzify
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

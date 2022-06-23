@@ -1,4 +1,4 @@
-package com.example.apitest
+package com.example.Newzify
 
 data class NewsClass(
     val articles: List<Article>,

@@ -1,14 +1,12 @@
-package com.example.apitest
+package com.example.Newzify
 
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.core.content.ContextCompat.startActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.apitest.databinding.ActivityMainBinding
-import com.example.apitest.databinding.ActivityCardLayoutBinding
+import com.example.Newzify.databinding.ActivityCardLayoutBinding
 import android.content.Context as Context
 
 class NewsAdapter(val context: Context, val items: NewsClass): RecyclerView.Adapter<NewsAdapter.ViewHolder>() {

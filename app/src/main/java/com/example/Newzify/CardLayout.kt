@@ -1,9 +1,8 @@
-package com.example.apitest
+package com.example.Newzify
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.apitest.databinding.ActivityCardLayoutBinding
+import com.example.Newzify.databinding.ActivityCardLayoutBinding
 
 class CardLayout : AppCompatActivity() {
     private lateinit var binding: ActivityCardLayoutBinding

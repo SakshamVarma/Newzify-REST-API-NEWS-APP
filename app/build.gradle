@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.apitest"
+        applicationId "com.example.Newzify"
         minSdk 24
         targetSdk 32
         versionCode 1

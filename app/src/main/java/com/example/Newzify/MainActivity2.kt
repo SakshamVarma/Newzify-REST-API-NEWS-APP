@@ -1,12 +1,11 @@
-package com.example.apitest
+package com.example.Newzify
 
 import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
-import com.example.apitest.databinding.ActivityMain2Binding
-import java.text.SimpleDateFormat
+import com.example.Newzify.databinding.ActivityMain2Binding
 import java.util.*
 
 class MainActivity2 : AppCompatActivity() {

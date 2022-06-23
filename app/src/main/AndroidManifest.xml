@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.apitest">
+    package="com.example.Newzify">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,13 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ApiTest">
         <activity
-            android:name=".CardLayout"
+            android:name="com.example.Newzify.CardLayout"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name="com.example.Newzify.MainActivity2"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.Newzify.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
